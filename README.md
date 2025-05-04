@@ -35,7 +35,7 @@ A responsive and minimalist Todo application built using **React**, allowing use
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/iTask-Todo-App.git
+git clone https://github.com/nileshdhankani/iTask-Todo-App.git
 cd iTask-Todo-App
 npm install
 npm run dev   # or npm start
