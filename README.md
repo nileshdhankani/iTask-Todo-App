@@ -4,6 +4,12 @@ A responsive and minimalist Todo application built using **React**, allowing use
 
 ---
 
+## 🌐 Live Site
+
+👉 [Visit iTask Todo App](https://itask-manage-todos-project.netlify.app/)
+
+---
+
 ## 🚀 Features
 
 - ✅ Add new todos
