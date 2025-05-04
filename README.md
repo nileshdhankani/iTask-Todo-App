@@ -28,7 +28,7 @@ A responsive and minimalist Todo application built using **React**, allowing use
 
 | Add Todo | View Todos | Toggle Completed |
 |----------|------------|------------------|
-| ![Add](./screenshots/add.png) | ![View](./screenshots/view.png) | ![Toggle](./screenshots/toggle.png) |
+| ![Add](./screenshots/add.jpg) | ![View](./screenshots/view.jpg) | ![Toggle](./screenshots/toggle.jpg) |
 
 ---
 
